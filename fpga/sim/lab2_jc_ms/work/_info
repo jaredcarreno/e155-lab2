@@ -1,0 +1,169 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/lscc/radiant/2025.1/questasim/win64
+T_opt
+!s110 1757415537
+VFI2iC0?fGBCRk6:PMY1GR2
+04 17 4 work lab2_jc_testbench fast 0
+=1-78465c7f6ef7-68c0086f-346-55e4
+R0
+!s12f OEM25U4 
+Z2 !s12b OEM100
+Z3 !s124 OEM100
+Z4 !s135 nogc
+Z5 o-quiet -auto_acc_if_foreign -work work +acc -L iCE40UP -Lf iCE40UP
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2024.2;79
+R1
+T_opt1
+!s110 1757415999
+VWiGKkC>V_obIUILLQPocX1
+04 13 4 work mux_testbench fast 0
+=1-78465c7f6ef7-68c00a3f-eb-3fc4
+R0
+!s12f OEM25U2 
+R2
+R3
+R4
+R5
+R6
+n@_opt1
+R7
+vlab2_jc
+2C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1757415485
+!i10b 1
+!s100 kcQ]5^YES<2363LJ^J?BR1
+I_QfIdX5l9MGaYD9^M5EB]0
+S1
+Z10 dC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP
+w1757413605
+8C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv
+FC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv
+!i122 0
+L0 10 16
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z13 !s108 1757415485.000000
+!s107 C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vlab2_jc_testbench
+2C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv
+R8
+R9
+!i10b 1
+!s100 I8>A0j=:TjVohi7z296m30
+IeJ:f95iVTkcM>00AOA2IC2
+S1
+R10
+w1757414823
+8C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv
+FC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv
+!i122 1
+L0 8 34
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv|
+!i113 0
+R14
+R6
+vmux
+2C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv
+R8
+Z15 !s110 1757415486
+!i10b 1
+!s100 VZZjcoH[_ACL<;GIXkTjm1
+IUB;;MN4Yh0O=zFW62PE1X2
+S1
+R10
+w1757414246
+8C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv
+FC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv
+!i122 2
+L0 11 22
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv|
+!i113 0
+R14
+R6
+vmux_testbench
+2C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv
+R8
+R15
+!i10b 1
+!s100 =9j?>AGKfA_YX?_@`e1760
+IPG@WB9D=MzPN4oQ[;[18M2
+S1
+R10
+w1757415386
+8C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv
+FC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv
+!i122 3
+L0 8 45
+R11
+R12
+r1
+!s85 0
+31
+Z16 !s108 1757415486.000000
+!s107 C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv|
+!i113 0
+R14
+R6
+vseven_segment
+2C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv
+R8
+R15
+!i10b 1
+!s100 21759iEh<AkNH_]alan0M2
+Ib=YSSeHSM]]hheo]e^8Rn0
+S1
+R10
+w1757413308
+8C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv
+FC:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv
+!i122 4
+L0 8 32
+R11
+R12
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv|
+!i113 0
+R14
+R6

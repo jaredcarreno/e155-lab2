@@ -1,0 +1,36 @@
+{C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module mux_testbench
+
+Top level modules:
+	mux_testbench
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab2_jc
+
+Top level modules:
+	lab2_jc
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/mux.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/seven_segment.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab 2 - WIP/lab2_jc_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab2_jc_testbench
+
+Top level modules:
+	lab2_jc_testbench
+
+} {} {}}
