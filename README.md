@@ -1,3 +1,3 @@
-# E155 Lab 1
+# E155 Lab 2
 
-This repo includes code to verify the proper assembly of the E155 development board and operation of the MCU and FPGA
+This repo includes code for Lab 2 of E155 at HMC.
